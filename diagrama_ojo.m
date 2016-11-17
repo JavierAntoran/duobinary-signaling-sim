@@ -1,0 +1,1 @@
+diag_ojo(z(delay-L/2+1:delay-L/2+Nsimbolos*L),L,Nsimbolos,L/2,round(linspace(1,0.5*Nsimbolos,300)))
